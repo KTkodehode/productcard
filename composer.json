@@ -3,7 +3,8 @@
     "description": "d",
     "type": "project",
     "require": {
-        "ext-ftp": "*"
+        "ext-ftp": "*",
+        "nicolab/php-ftp-client": "^2.0"
     },
     "autoload": {
         "psr-4": {
