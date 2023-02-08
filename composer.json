@@ -1,0 +1,19 @@
+{
+    "name": "kenneth/productcard",
+    "description": "d",
+    "type": "project",
+    "require": {
+        "ext-ftp": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kenneth\\Productcard\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kenneth",
+            "email": "kenneth1.kodehode@gmail.com"
+        }
+    ]
+}
